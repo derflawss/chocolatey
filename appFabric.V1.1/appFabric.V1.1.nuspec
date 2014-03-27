@@ -2,17 +2,16 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema">
          <metadata>
-            <id>appfabric</id>
+            <id>appFabric.V1.1</id>
             <title>AppFabric</title>
-            <version>1.1</version>
+            <version>1.0</version>
             <authors>Windows Azure Team</authors>
             <owners>Alfred Samasoni</owners>
-            <summary>Microsoft AppFabric for Windows Server.</summary>
+            <summary>Microsoft AppFabric for Windows Server version 1.1</summary>
             <description>Microsoft AppFabric for Windows Server is a set of integrated technologies that makes it easier to build, scale, and manage Web and composite applications that run on IIS.
             For more information: microsoft.com/appfabric
             Developer blog: blogs.msdn.com/endpoint
             ITPro blog: blogs.msdn.com/appfabric
-			Source code: https://github.com/derflawss/chocolatey/tree/master/appFabric
             </description>
             <projectUrl>
             http://msdn.microsoft.com/appfabric
