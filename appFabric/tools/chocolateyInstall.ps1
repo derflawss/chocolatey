@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'appfabric' 'exe' '/install' 'http://download.microsoft.com/download/1/A/D/1ADC8F3E-4446-4D31-9B2B-9B4578934A22/WindowsServerAppFabricSetup_x86_6.1.exe' 'http://download.microsoft.com/download/A/6/7/A678AB47-496B-4907-B3D4-0A2D280A13C0/WindowsServerAppFabricSetup_x64.exe'
